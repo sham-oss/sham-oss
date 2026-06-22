@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Sham Kumar 👋
 
-<!--
-**sham-oss/sham-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+🔧 Skills
+- Embedded Systems
+- IoT
+- ESP32
+- Firebase
+- Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Smart Classroom Automation
+- Guardian Band
+
+📚 Currently Preparing
+- GATE ECE 2026
+
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/shamkumar3676/
+Portfolio:https://shamkumar-portfolio30.netlify.app/
